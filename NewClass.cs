@@ -8,7 +8,7 @@ namespace CosoleProjectforGithub
     {
         public NewClass() 
         {
-            Console.WriteLine("Команда разработчиков 1");
+            Console.WriteLine("Команда разработчиков 2");
         }
       
     }
